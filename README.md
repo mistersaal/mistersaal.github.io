@@ -4,14 +4,14 @@
 - Учёба:
   - [ ] Разобраться со всеми лабами
 - Back-end:
-  - Продолжать изучать laravel:
+  - [ ] Продолжать изучать laravel:
     - [ ] Глубже изучить Eloquent и Collection
     - [ ] Queues
     - [ ] Task Scheduling
     - [ ] Broadcasting
   - [ ] Написание тестов
 - Front-end:
-  - Тренить Vue.js
+  - [ ] Тренить Vue.js
   - [ ] Посмотреть Buefy.js
   - [ ] Посмотреть Nuxt.js
   - [ ] Server Side Rendering

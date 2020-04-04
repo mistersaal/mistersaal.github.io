@@ -11,6 +11,7 @@
     - [ ] Broadcasting
   - [ ] Написание тестов
 - Front-end:
+  - [ ] Посмотреть https://laravel-livewire.com/
   - [ ] Тренить Vue.js
   - [ ] Посмотреть Buefy.js
   - [ ] Посмотреть Nuxt.js

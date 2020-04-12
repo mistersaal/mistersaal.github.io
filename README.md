@@ -4,6 +4,7 @@
 - Учёба:
   - [ ] Разобраться со всеми лабами
 - Back-end:
+  - [ ] **Opcache**
   - [ ] Продолжать изучать laravel:
     - [ ] Глубже изучить Eloquent и Collection
     - [ ] Queues

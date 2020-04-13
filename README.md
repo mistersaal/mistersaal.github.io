@@ -24,3 +24,4 @@
 - Безопасность:
   - [ ] Транзакции
   - [ ] Race condition
+  - [ ] Laravel security checklist

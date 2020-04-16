@@ -7,6 +7,7 @@
   - [ ] **Opcache**
   - [ ] Продолжать изучать laravel:
     - [ ] Глубже изучить Eloquent и Collection
+    - [ ] RESTfull API
     - [ ] Queues
     - [ ] Task Scheduling
     - [ ] Broadcasting

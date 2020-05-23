@@ -4,18 +4,18 @@
 - Учёба:
   - [ ] Разобраться со всеми лабами
 - Back-end:
-  - [ ] **Opcache**
+  - [x] **Opcache**
   - [ ] Продолжать изучать laravel:
     - [ ] Глубже изучить Eloquent и Collection
     - [ ] RESTfull API
     - [ ] Queues
     - [ ] Task Scheduling
-    - [ ] Broadcasting
+    - [x] Broadcasting
   - [ ] Написание тестов
 - Front-end:
-  - [ ] Посмотреть https://laravel-livewire.com/
-  - [ ] Тренить Vue.js
-  - [ ] Посмотреть Buefy.js
+  - [x] Посмотреть https://laravel-livewire.com/
+  - [x] Тренить Vue.js
+  - [x] Посмотреть Buefy.js
   - [ ] Посмотреть Nuxt.js
   - [ ] Server Side Rendering
 - Книги:
